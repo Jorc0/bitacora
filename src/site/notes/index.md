@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"BPL - Mi Jardín Digital","tags":["inicio","bienvenida","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/index/","title":"BPL - Mi Jardín Digital","tags":["inicio","bienvenida","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 
