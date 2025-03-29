@@ -1,10 +1,7 @@
 ---
-title: "Capítulo 1: Historias que no escribí (pero hablan de mí)"
-description: "Cada persona que nos conoce construye una versión nuestra. ¿Qué hacemos con esas historias ajenas que también nos definen?"
-tags: [identidad, percepción, narrativa, yo múltiple, archivo mental]
-category: ensayos
-dg-publish: true
+{"dg-publish":true,"permalink":"/juicios-diferentes-historias-diferentes/cap01/","title":"Capítulo 1: Historias que no escribí (pero hablan de mí)","tags":["identidad","percepción","narrativa","yo múltiple","archivo mental"]}
 ---
+
 
 ### 1. Juicios diferentes → historias diferentes
 

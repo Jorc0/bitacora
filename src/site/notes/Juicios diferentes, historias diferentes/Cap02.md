@@ -1,10 +1,7 @@
 ---
-title: "Capítulo 2: La confianza no es simétrica"
-description: "No comparto lo íntimo con quien más quiero, sino con quien puede sostener esa parte de mí sin distorsionarla"
-tags: [confianza, narrativa, identidad, vínculos, percepción]
-category: ensayos
-dg-publish: true
+{"dg-publish":true,"permalink":"/juicios-diferentes-historias-diferentes/cap02/","title":"Capítulo 2: La confianza no es simétrica","tags":["confianza","narrativa","identidad","vínculos","percepción"]}
 ---
+
 
 ### 3. La confianza no es simétrica
 
