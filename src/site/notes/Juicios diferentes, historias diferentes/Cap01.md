@@ -4,6 +4,8 @@
 
 
 ### 1. Juicios diferentes → historias diferentes
+{ #f018d0}
+
 
 Cada persona que me conoce guarda una historia sobre mí.  
 Una narrativa que quizá nunca ha dicho en voz alta, pero que está ahí.  
